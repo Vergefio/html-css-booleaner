@@ -1,5 +1,16 @@
+
+.pattern{
+  width: 100%;
+  height: 20px;
+}
+
+
 header{
   background-color: aqua;
-  background-image: url(/img/pattern.png);
-  height: 50%;
+  height: 70px;
+}
+
+
+.imp{
+  color: aqua;
 }
